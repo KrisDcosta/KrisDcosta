@@ -16,12 +16,12 @@
 
 ## What I work on
 
-I build and benchmark ML systems where deployment constraints are real — quantized models on
-ARM cores, inference pipelines that survive hardware variance, and evaluation frameworks that
-produce numbers you can actually trust.
+I build ML systems end-to-end — from research and experimentation to deployment on 
+real hardware. My work spans model evaluation, inference optimization, data pipelines, 
+and on-device AI across mobile, x86, and GPU targets.
 
-Previously: 1.5 years at IIT Bombay's Vision & Image Processing Lab. Three IEEE publications.
-One granted patent. Currently graduate researcher at MOSAIC Lab, UCSD.
+Previously: 1.5 years at IIT Bombay's Vision & Image Processing Lab. Three IEEE 
+publications. One granted patent. Currently graduate researcher at MOSAIC Lab, UCSD.
 
 ---
 
