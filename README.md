@@ -92,7 +92,7 @@ for crowdsourced waste mapping with location-tagged image classification.
 |------|-------|-------|
 | 2025 | ARMD-NetX: Multimodal Retinal Disease Classification | IEEE ICCCNT 2025 |
 | 2025 | Low-Cost Portable Biometric Attendance System Using R307 Fingerprint Scanner Integrated with Raspberry Pi Pico W | INOACC 2025 |
-| 2024 | Enhancing Bone Fracture Detection: A Comparative Study with VGG16+CNN Hybrid Architecture | IEEE ICCC 2024 |
+| 2025 | Enhancing Bone Fracture Detection: A Comparative Study with Hybrid VGG16-CNN Architecture | IEEE ICCC 2025 · DOI: [10.1109/ICCC64910.2025.11077288](https://doi.org/10.1109/ICCC64910.2025.11077288) |
 | 2024 | DoppelScan | Indian Patent Office (Granted) |
 
 ---
