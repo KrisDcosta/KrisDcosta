@@ -21,7 +21,7 @@ real hardware. My work spans model evaluation, inference optimization, data pipe
 and on-device AI across mobile, x86, and GPU targets.
 
 Previously: 1.5 years at IIT Bombay's Vision & Image Processing Lab. Three IEEE
-publications. One granted patent. Currently graduate researcher at MOSAIC Lab, UCSD.
+publications. One published patent. Currently graduate researcher at MOSAIC Lab, UCSD.
 
 ---
 
@@ -56,9 +56,9 @@ with semantic search and full MLOps stack.
 
 ---
 
-### [RL Agent → NPU Deployment: CartPole PPO](https://github.com/KrisDcosta/cart-pole-ppo)
-PPO agent in PyTorch exported via ONNX to Qualcomm AI Hub for NPU inference on Snapdragon.
-Real-time web visualization. Full test suite. Docker containerized.
+### Qualcomm AI Workshops *(coming soon)*
+On-device AI projects: RL agent NPU deployment (CartPole PPO → ONNX → Snapdragon),
+agentic inference, and an additional project in progress. Full repo public later this month.
 
 `PyTorch` `ONNX` `Qualcomm AI Hub` `Docker`
 
@@ -101,7 +101,7 @@ for crowdsourced waste mapping with location-tagged image classification.
 | 2025 | ARMD-NetX: Multimodal Retinal Disease Classification | IEEE ICCCNT 2025 |
 | 2025 | Low-Cost Portable Biometric Attendance System Using R307 Fingerprint Scanner Integrated with Raspberry Pi Pico W | INOACC 2025 |
 | 2025 | Enhancing Bone Fracture Detection: A Comparative Study with VGG16+CNN Hybrid Architecture | IEEE ICCC 2025 · [DOI: 10.1109/ICCC64910.2025.11077288](https://doi.org/10.1109/ICCC64910.2025.11077288) |
-| 2024 | DoppelScan | Indian Patent Office (Granted) |
+| 2024 | DoppelScan | Indian Patent Office (Published) |
 
 ---
 
