@@ -54,15 +54,6 @@ with semantic search and full MLOps stack.
 
 `Python` `FastAPI` `FAISS` `scikit-learn` `Docker` `GCP`
 
----
-
-### Qualcomm AI Workshops *(coming soon)*
-On-device AI projects: RL agent NPU deployment (CartPole PPO → ONNX → Snapdragon),
-agentic inference, and an additional project in progress. Full repo public later this month.
-
-`PyTorch` `ONNX` `Qualcomm AI Hub` `Docker`
-
----
 
 ### [Coastal Flood Prediction: OOD ML Pipeline](https://github.com/KrisDcosta/coastal-flood-ml)
 ML competition — predict coastal flooding across 12 tide gauge stations with OOD generalization
